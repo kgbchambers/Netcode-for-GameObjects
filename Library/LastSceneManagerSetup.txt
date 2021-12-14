@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/exploration_Chambers_Kade.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
